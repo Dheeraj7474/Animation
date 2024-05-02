@@ -1,0 +1,14 @@
+#container{
+    border: 1px solid black;
+    margin: 10%;
+    height: 500px;
+    width: 500px;
+    background-color: greenyellow;
+}
+#inner{
+    border: 1px solid red;
+    margin: 0%;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+}
